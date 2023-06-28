@@ -8,6 +8,7 @@ Online shopping is very popular, as it allows people to get many choices on a si
 - [Requirement Analysis](#requirement-analysis)
 - [Database Schema](#database-schema)
 - [Technologies Used](#technologies-used)
+- [Usage](#usage)
 - [Project Report](#project-report)
 
 
@@ -27,6 +28,14 @@ ER Model:
 
 ## Technologies Used
 - PostgreSQL
+
+## Example Usage
+Requirement: When the customer enters the website, they can see the list of products along with the image, the price, the rating, and the seller's brandname.
+![Requiremnt 1](http://g.recordit.co/o5Lp1mus9T.gif)
+
+Requirement: Some info (particularly an address and payment method) can be retrieved when a user places an order.
+![Requirement 2](http://g.recordit.co/VrH165lyzi.gif)
+
 
 ## Project Report
 [Project Report](https://docs.google.com/document/d/1W5k3AW97v1SvNLqHRQX_ThOoXlu1DVTpxF4e_MXM9ow/edit?usp=sharing)
