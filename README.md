@@ -33,6 +33,7 @@ ER Model:
 
 ## Technologies Used
 - PostgreSQL
+- Visual Studio Code
 
 
 
